@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 63b7a5dc7ce76eb4d93ef8a732e8778a
+timeCreated: 1469066892
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MultiMole_0
+    21300002: MultiMole_1
+    21300004: MultiMole_2
+    21300006: MultiMole_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: MultiMole_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 1}
+        - {x: -40, y: -11}
+        - {x: -54, y: -55}
+        - {x: -54, y: -90}
+        - {x: -52, y: -91}
+        - {x: 56, y: -91}
+        - {x: 56, y: -38}
+        - {x: 18, y: 1}
+    - name: MultiMole_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 1}
+        - {x: -54, y: -36}
+        - {x: -54, y: -91}
+        - {x: 56, y: -91}
+        - {x: 56, y: -59}
+        - {x: 26, y: 1}
+    - name: MultiMole_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 1}
+        - {x: -13, y: 1}
+        - {x: -38, y: -9}
+        - {x: -54, y: -41}
+        - {x: -54, y: -91}
+        - {x: 43, y: -91}
+        - {x: 56, y: -89}
+        - {x: 56, y: -48}
+        - {x: 43, y: -6}
+    - name: MultiMole_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 1}
+        - {x: -54, y: -35}
+        - {x: -54, y: -82}
+        - {x: -46, y: -90}
+        - {x: -29, y: -91}
+        - {x: 48, y: -91}
+        - {x: 56, y: -82}
+        - {x: 56, y: -48}
+        - {x: 25, y: 1}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
