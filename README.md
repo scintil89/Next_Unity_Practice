@@ -1,15 +1,15 @@
 # Next_Unity_Practice
 Next_Unity_Practice
 
-  0601  start Simple PVE FPS
+ 	0601  start Simple PVE FPS
+  	
+  	0707 	Custom Inspector
   
-  0707 	Custom Inspector
+  	0721 	2D _ Mecanim
   
-  0721 	2D _ Mecanim
+  	AndTest   android app test
   
-  AndTest   android app test
-  
-  android 	android app & ad test
+  	android 	android app & ad test
     
 	Standard Assets Example Project Tween Practice
   
